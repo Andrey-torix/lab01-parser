@@ -1,6 +1,6 @@
 # Лабораторная работа № 1
 
-[![Build Status](https://travis-ci.com/Andrey-torix/lab01-parser.svg?branch=master)](https://travis-ci.com/Andrey-torix/lab01-parser)
+[![Build Status](https://travis-ci.com/Andrey-torix/lab01-parser.svg?branch=ver2)](https://travis-ci.com/Andrey-torix/lab01-parser)
 
 ## Задание
 
